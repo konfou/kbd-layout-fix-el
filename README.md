@@ -1,4 +1,4 @@
-This is an Emacs adaption of https://github.com/konfou/kbd-layout-fix
+An Emacs adaption of https://github.com/dspinellis/kbd-layout-fix
 
 It provides a function that maps  between two layouts defined in another
 function.  As  explained in aforementioned  repo, to enter text  in some
